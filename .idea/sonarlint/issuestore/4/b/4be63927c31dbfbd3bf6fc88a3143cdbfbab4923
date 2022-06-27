@@ -1,0 +1,15 @@
+
+9
+java:S1659"#Declare "right" on a separate line.(çùà¶
+o
+java:S3776'"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ˆâï8¦Ÿã‘Œ0
+Q
+java:S2864L"4Iterate over the "entrySet" instead of the "keySet".(Ó¯ ÷8¯ğç‘Œ0
+E
+java:S1128"/Remove this unused import 'codeforces.CR780.A'.(Ä²‹Ü
+I
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+E
+java:S1128	"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ

@@ -1,0 +1,10 @@
+
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Çµí‘8ûªžˆ…0
+T	java:S106'"9Replace this use of System.out or System.err by a logger.(ÓŸ“P8ˆ«žˆ…0
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8‰«žˆ…0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥ñøò
+i
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(‡‡êÚûÿÿÿÿ8½†©ˆ…0
+©
+java:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(–áøðûÿÿÿÿ8¿†©ˆ…0

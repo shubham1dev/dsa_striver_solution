@@ -1,0 +1,18 @@
+
+1
+java:S3626"Remove this redundant jump.(˚¡›Ö
+1
+java:S3626"Remove this redundant jump.(˚¡›Ö
+h
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(éµ†¿
+M	java:S106d"9Replace this use of System.out or System.err by a logger.(¸ÑÍ!
+v
+java:S1319	"aThe type of "A" should be an interface such as "List" rather than the implementation "ArrayList".(·ê O
+x
+java:S1319	"cThe type of "min" should be an interface such as "List" rather than the implementation "ArrayList".(·ê O
+w
+java:S1319#"aThe type of "A" should be an interface such as "List" rather than the implementation "ArrayList".(éµ†¿
+e	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ê O
+e	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·ê O
+f	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éµ†¿
+f	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éµ†¿

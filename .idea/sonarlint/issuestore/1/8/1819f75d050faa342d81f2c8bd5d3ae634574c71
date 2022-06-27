@@ -1,0 +1,6 @@
+
+M	java:S106&"9Replace this use of System.out or System.err by a logger.(¸ÑÍ!
+w
+java:S1319"aThe type of "A" should be an interface such as "List" rather than the implementation "ArrayList".(âµÕ„
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âµÕ„
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âµÕ„

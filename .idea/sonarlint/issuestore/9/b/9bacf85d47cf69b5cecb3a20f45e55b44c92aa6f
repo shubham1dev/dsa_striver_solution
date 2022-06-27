@@ -1,0 +1,7 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Çµí‘
+A
+java:S1602"",Remove useless curly braces around statement(Ò®ÿa
+M	java:S106W"9Replace this use of System.out or System.err by a logger.(ü„ê!
+n	java:S135("YReduce the total number of break and continue statements in this loop to use at most one.(»³½‹

@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰ú£ûûÿÿÿÿ8­¸ü¹ƒ0
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(Ò‘õ©ùÿÿÿÿ8®¸ü¹ƒ0
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(‰ú£ûûÿÿÿÿ8°¸ü¹ƒ0
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(Ò‘õ©ùÿÿÿÿ8±¸ü¹ƒ0
+W	java:S125F"<This block of commented-out lines of code should be removed.(Öï°8º¸ü¹ƒ0
+L
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8»¸ü¹ƒ0

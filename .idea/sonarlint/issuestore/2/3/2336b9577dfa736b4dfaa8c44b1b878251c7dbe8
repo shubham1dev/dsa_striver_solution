@@ -1,0 +1,17 @@
+
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(“å°æÿÿÿÿÿ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Õ¨·
+€
+java:S1319"cThe type of "ans" should be an interface such as "List" rather than the implementation "ArrayList".(Õ¨·8´Ñ“Œ0
+
+java:S1319+"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Çÿó²8‚´Ñ“Œ0
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¨·8‚´Ñ“Œ0
+f	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çÿó²
+f	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Çÿó²
+[
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(»Ö±Š8‚´Ñ“Œ0
+[
+java:S1155%">Use isEmpty() to check whether the collection is empty or not.(»Ö±Š8‚´Ñ“Œ0
+|
+java:S1488."ZImmediately return this expression instead of assigning it to the temporary variable "cs".(ŠÐ æüÿÿÿÿ8ù€Ë“Œ0

@@ -1,0 +1,9 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Ηµν‘
+:
+java:S1659"Declare "j" on a separate line.(α”ζεώÿÿÿÿ
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(π‹Ά„όÿÿÿÿ
+S	java:S106["9Replace this use of System.out or System.err by a logger.(ί™υ‚ύÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(¤—καÿÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(ε¶Γ…ύÿÿÿÿ

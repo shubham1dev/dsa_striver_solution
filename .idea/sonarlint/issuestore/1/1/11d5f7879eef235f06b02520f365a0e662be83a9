@@ -1,0 +1,9 @@
+
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(“å°æÿÿÿÿÿ
+…
+java:S1319
+"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ç·Â.
+e	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç·Â.
+^
+java:S2184"CCast one of the operands of this subtraction operation to a "long".(‰ Öúÿÿÿÿ

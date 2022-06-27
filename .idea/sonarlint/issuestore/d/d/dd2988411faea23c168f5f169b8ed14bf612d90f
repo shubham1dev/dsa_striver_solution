@@ -1,0 +1,6 @@
+
+S
+java:S1854"8Remove this useless assignment to local variable "minv".(îÍŠÑþÿÿÿÿ
+D
+java:S1481")Remove this unused "minv" local variable.(îÍŠÑþÿÿÿÿ
+M	java:S1061"9Replace this use of System.out or System.err by a logger.(ü„ê!

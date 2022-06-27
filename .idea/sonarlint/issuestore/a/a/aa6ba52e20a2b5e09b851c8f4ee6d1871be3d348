@@ -1,0 +1,25 @@
+
+\
+java:S1126"AReplace this if-then-else statement by a single return statement.(≠¸ﬂ·˙ˇˇˇˇ
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(û≈Ó÷
+t
+java:S2142#"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰†πÄ
+|
+java:S2273""fMove this call to "wait()" into a synchronized block to be sure the monitor on "MessageQueue" is held.(ûä‰û
+P
+java:S2274"":Remove this call to "wait" or move it into a "while" loop.(ûä‰û
+F
+java:S2446("0"notify" may not wake up the appropriate thread.(≠¿Ù…
+~
+java:S2273("hMove this call to "notify()" into a synchronized block to be sure the monitor on "MessageQueue" is held.(≠¿Ù…
+t
+java:S21420"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(‰†πÄ
+|
+java:S2273/"fMove this call to "wait()" into a synchronized block to be sure the monitor on "MessageQueue" is held.(ûä‰û
+P
+java:S2274/":Remove this call to "wait" or move it into a "while" loop.(ûä‰û
+X
+java:S2094="BRemove this empty class, write its code or make it an "interface".(≤ ππ
+T
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(û≈Ó÷

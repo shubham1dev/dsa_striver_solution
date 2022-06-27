@@ -1,0 +1,10 @@
+
+M	java:S106$"9Replace this use of System.out or System.err by a logger.(ü„ê!
+~
+java:S1319	"cThe type of "arr" should be an interface such as "List" rather than the implementation "ArrayList".(ÕõÔÉúÿÿÿÿ
+
+java:S1319"dThe type of "nums" should be an interface such as "List" rather than the implementation "ArrayList".(ÖœØÀúÿÿÿÿ
+i
+java:S3973"GUse indentation to denote the code conditionally executed by this "if".(§áäİüÿÿÿÿ8 ê´0
+©
+java:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(¶‚ğ˜şÿÿÿÿ8 ê´0

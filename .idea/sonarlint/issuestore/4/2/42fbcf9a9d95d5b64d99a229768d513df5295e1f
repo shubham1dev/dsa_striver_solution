@@ -1,0 +1,11 @@
+
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Y
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(öÍËè
+N	java:S106"9Replace this use of System.out or System.err by a logger.(îõ“ª
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(è¡µ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(‚ÿÍƒûÿÿÿÿ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(ÓŸßà
+|
+java:S1319"aThe type of "info" should be an interface such as "Map" rather than the implementation "HashMap".(ªÎÑ‘şÿÿÿÿ

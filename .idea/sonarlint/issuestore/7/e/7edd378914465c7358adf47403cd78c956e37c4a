@@ -1,0 +1,20 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(Çµí‘
+<
+java:S16590"!Declare "col" on a separate line.(ˆŸ„»úÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÿªìþÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÿªìþÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(úº‘žüÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+C
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX
+E
+java:S1128	"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ
+R
+java:S1128
+"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ
